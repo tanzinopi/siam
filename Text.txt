@@ -5,7 +5,9 @@ git remote add origin https://github.com/tanzinopi/siam.git
 
 
 git branch -M main
+
 git add Text.txt
+
 git push -u origin main
 
 git add . 
@@ -13,3 +15,5 @@ git add .
 git commit -m  "hello world commit"
 
 git push -u origin main
+
+
